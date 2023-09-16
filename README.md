@@ -7,7 +7,6 @@ A super simple Wikipedia clone (using only markup language), just to consolidate
 ## 🗞 First look 
 
 ![Wikipedia 1](./images/screen_1.png)
-![Wikipedia 2](./images/screen_2.png)
 
 ## 🗞 Technologies
 
